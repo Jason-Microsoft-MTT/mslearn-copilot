@@ -51,7 +51,7 @@ To start your exploration of generative AI, let's use Copilot for Word on the we
 
     > **Tip**: You can close the **Navigation** pane if it is open to see more of the document.
 
-1. Find and select the **Copilot** icon on the Word web toolbar to open the Copilot pane, as shown here (your visual theme may vary):
+1. Find and select the **Copilot** icon from the bottom right of the application to open the Copilot pane, as shown here (your visual theme may vary):
 
     ![Screenshot of the Copilot pane in Microsoft Word.](./Media/copilot-word-pane.png)
 
@@ -63,7 +63,7 @@ To start your exploration of generative AI, let's use Copilot for Word on the we
 
 1. Review the response from Copilot, which should summarize the main points in the document, as shown here:
 
-    ![Screenshot of the Copilot pane in Word with a response.](./Media/copilot-response-word.png)
+    ![Screenshot of the Copilot pane in Word with a response.](./Media/copilot-response-word1.png)
 
     > The specific response you receive may vary due to the nature of generative AI.
 
